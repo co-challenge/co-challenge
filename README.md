@@ -3,7 +3,7 @@ This is the coding challenge for the cloud operations intership at LiveEO.
 It will check your knowledge on some basic file management skills. 
 Let's get started!
 
-/*:
+
 1) clone this repo to your machine
 2) create script that executes the following subtasks. You may use any language of your choice (.sh, .py, .js, .m, ... really any language you want!)  
 2.1) list all tifs contained in this repo by file size 
@@ -14,7 +14,7 @@ Let's get started!
 3.2) check any raster tifs meta data with the gdalinfo command and export it as meta.txt
 3.3) what projection is the raster using?  
 3.4) [optional] whats the raster's pixel resolution?
-*/
+
 
 Submit your zipped script and meta.txt to matthias@live-eo.com
 Feel free to contact me anytime about the questions and any issues! 
