@@ -1,6 +1,6 @@
 ### Hi there 👋
-This is the coding challenge for the cloud operations intership at LiveEO. \
-It will check your knowledge on some basic file management skills. \
+This is the coding challenge for the operations group at LiveEO. \
+It will check your knowledge on some basic file management skills as well as. \
 Let's get started!
 
 
@@ -11,11 +11,11 @@ Let's get started!
 * the .tif filenames contain information about the band ( e.g. "...B08_10m...") Group all tifs in folders by band (you will have 4 subfolders in ./all_tifs)
 3. Now let's analyze an arbitrary .tif
 * create a conda env from the environment.yml and activate it
-* check any raster tifs meta data with the gdalinfo command and export it as meta.txt
-* what projection is the raster using?  
-* [optional] whats the raster's pixel resolution?
-* [optional] create a mosaic per band/date combination
+* check the raster's properties with 'gdalinfo' and export it as raster_meta.json
+* what spatial reference system is the raster using?  
+* [optional] whats the raster's pixel resolution? 
+4. [optional] create a raster mosaic per band
 
 
-Submit your zipped scripts and meta.txt to matthias@live-eo.com \
+Submit your zipped scripts raster_meta.json to matthias@live-eo.com \
 Feel free to contact me anytime if you have questions and any issues.
