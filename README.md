@@ -1,6 +1,6 @@
 ### Hi there 👋
 This is the coding challenge for the operations group at LiveEO. \
-It will check your knowledge on some basic file management skills as well as. \
+It will check your knowledge on basic file management as well as geospatial data handling. \
 Let's get started!
 
 
